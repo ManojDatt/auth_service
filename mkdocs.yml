@@ -1,0 +1,4 @@
+site_name: auth_service
+site_description: Authentication Service
+repo_url: https://github.com/ManojDatt/auth_service
+site_dir: html
